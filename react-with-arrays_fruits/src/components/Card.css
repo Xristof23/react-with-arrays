@@ -17,3 +17,12 @@
 .card--yellow {
   background-color: lightyellow;
 }
+
+.card--pink {
+  background-color: pink;
+}
+
+.card--black {
+  color: lightgrey;
+  background-color: black;
+}
